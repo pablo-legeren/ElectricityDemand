@@ -1,6 +1,7 @@
 # Electricity Demand Forecasting
 
 This project focuses on forecasting electricity demand using time series techniques and machine learning.
+A significant portion of the time series analysis and modeling is done using the `skforecast` library.
 
 ## General Description
 
